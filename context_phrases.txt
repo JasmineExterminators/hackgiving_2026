@@ -1,0 +1,98 @@
+# Example sentences supply context, but suggestions are always one word.
+I would like some water
+I would like some food
+I would like to try
+I need some help
+I need to go home
+Can you help me please
+Can I have some water
+Can I ask a question
+Please give me a minute
+Please wait for me
+Thank you very much
+Thank you for your time
+You are welcome
+How are you today
+I am doing well
+I am feeling tired
+I am feeling happy
+I am very excited
+I am ready to start
+I am going to school
+I am going home
+I am working on my project
+I have a science project
+I have a question
+My favorite subject is science
+My favorite animal is a turkey
+My favorite color is blue
+My favorite food is pizza
+This is my science project
+This is my keyboard
+This project uses computer vision
+The camera can see my arms
+The camera detects my pose
+The sensors detect my feet
+I use my feet to type
+I can type with my feet
+The turkey can type words
+The keyboard can predict words
+The program runs on my computer
+The letters appear on the screen
+Press the space pad
+Press the delete pad
+Select the first letter
+Select the second letter
+Select the third letter
+Switch to numbers mode
+Switch to letters mode
+I want to write a message
+I want to play a game
+I want to go outside
+I like to read books
+I like to play games
+I like learning new things
+I like spending time with friends
+We are going to the park
+We are working together
+We can try again
+Let us try again
+It is nice to meet you
+It is a beautiful day
+Have a great day
+See you later
+See you tomorrow
+Good morning everyone
+Good afternoon everyone
+Good night everyone
+Happy birthday to you
+What is your name
+What time is it
+Where are you going
+When will you be home
+How does it work
+How do I use this
+Why did that happen
+That is a good idea
+That was really cool
+This is very interesting
+The answer is correct
+The answer is wrong
+I do not understand
+I do not know
+I think this is great
+I think we should try
+I hope you like it
+I will see you soon
+I will be right back
+I will try my best
+My name is
+My friend is here
+My family is coming
+My computer is ready
+Please open the window
+Please close the door
+The weather is cold today
+The sun is shining
+I feel better now
+I am happy to help
